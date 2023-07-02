@@ -1,4 +1,3 @@
-
 import osmnx
 from smart_mobility_utilities.common import Node, cost, randomized_search
 from smart_mobility_utilities.viz import draw_route
